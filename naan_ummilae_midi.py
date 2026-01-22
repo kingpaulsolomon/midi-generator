@@ -2,7 +2,7 @@ from midiutil import MIDIFile
 import random
 
 # --- CONFIGURATION ---
-FILENAME = "worship_chords_6_8.mid"
+FILENAME = "worship_chords.mid"
 TEMPO = 120
 VELOCITY_STRONG = 85  # Beat 1 (The downbeat)
 VELOCITY_WEAK = 70    # Beat 4 (The backbeat/pulse)
